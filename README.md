@@ -117,6 +117,7 @@ b.Committing sensitive data (e.g., API keys).
 c.Poor commit messages (unclear history).
 d.Not using branches effectively (working directly on main).
 
+
 Best Practices:
 a.Pull updates before pushing to avoid conflicts:
 b.Use meaningful commit messages:
